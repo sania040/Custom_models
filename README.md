@@ -57,6 +57,6 @@ The goal of this notebook is to deeply understand how machine learning models wo
 ---
 
 ## 📬 Questions or Feedback?
-Open an issue or connect with me on [LinkedIn](your-linkedin-url-here).
+Open an issue or connect with me on (https://www.linkedin.com/in/sania-shakeel-236596262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3Bc2tPAl8BSZefjKPqGlFELA%3D%3D)
 
 ---
